@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+  <ColName>
+    <OldeName>A-Party</OldeName>
+    <NewName>a</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>A Number</OldeName>
+    <NewName>a</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>MSISDN_ID</OldeName>
+    <NewName>a</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>MSISDN</OldeName>
+    <NewName>a</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>B-Party</OldeName>
+    <NewName>b</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>BNUMBER</OldeName>
+    <NewName>b</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>B Number</OldeName>
+    <NewName>b</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>call_org_num</OldeName>
+    <NewName>b1</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>CALL_DIALED_NUM</OldeName>
+    <NewName>b2</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>Direction</OldeName>
+    <NewName>Call Type</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>CALL_TYPE</OldeName>
+    <NewName>Call Type</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>INBOUND_OUTBOUND_IND</OldeName>
+    <NewName>Call Type</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>Call_Network_Volume</OldeName>
+    <NewName>Duration</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>Cell Id</OldeName>
+    <NewName>Cell ID</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>MINS</OldeName>
+    <NewName>DurationMIN</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>SECS</OldeName>
+    <NewName>DurationSECS</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>CELL_ID</OldeName>
+    <NewName>Cell ID</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>Cell_SITE_ID</OldeName>
+    <NewName>Cell ID</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>Location</OldeName>
+    <NewName>Site</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>SITE_ADDRESS</OldeName>
+    <NewName>Site</NewName>
+  </ColName>
+  <ColName>
+    <OldeName>location</OldeName>
+    <NewName>Site</NewName>
+  </ColName>
+</Table> 
